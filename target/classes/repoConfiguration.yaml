@@ -1,0 +1,5 @@
+# Setting Remote Repository
+remoteRepository:
+    url: https://maven.wso2.org/nexus/content/groups/wso2-public
+    id: central
+    type: default
